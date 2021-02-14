@@ -40,7 +40,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=6285758779973:+62 857-5877-9973\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = '#!.,/\-_'
+prefix = '.'
 limitawal = 30
 memberlimit = 2
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
