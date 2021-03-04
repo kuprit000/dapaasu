@@ -56,8 +56,8 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/Urbaeexyz/whatsapp-bot2.git
-> cd whatsapp-bot2
+> git clone https://github.com/kuprit000/dapaasu.git
+> cd dapaasu
 ```
 
 Install the dependencies:
