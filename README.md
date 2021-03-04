@@ -69,8 +69,8 @@ Note : Kalo Mau Work, Centang Kolom 1,2,3,5,6
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> git clone https://github.com/kuprit000/dapagblk
+> cd dapagblk
 ```
 
 Install the dependencies:
